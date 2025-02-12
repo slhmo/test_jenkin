@@ -1,0 +1,2 @@
+[run]
+omit = *no_need_to_test*
