@@ -18,3 +18,5 @@ def divide(a, b):
         raise ValueError
     return a/b
 """man fuck gitlab"""
+
+
